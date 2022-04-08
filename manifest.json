@@ -8,9 +8,7 @@
     "icons": [{
         "src": "images/icons/feliz.png",
         "type": "image/png",
-        "sizes":"64x64"
+        "sizes":"512x512"
     }],
     "theme_color": "#808080"
-
-
 }
