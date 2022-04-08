@@ -1,0 +1,16 @@
+{
+    "short_name":"PWA",
+    "name":"Hector Castorena",
+    "start_url":"index.html",
+    "background_color":"#808080",
+    "display":"standalone",
+    "orientation": "portrait",
+    "icons": [{
+        "src": "images/icons/feliz.png",
+        "type": "image/png",
+        "sizes":"64x64"
+    }],
+    "theme_color": "#808080"
+
+
+}
